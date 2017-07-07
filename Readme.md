@@ -4,9 +4,6 @@
 
 This module lets you connect to web services using SOAP.  It also provides a server that allows you to run your own SOAP services.
 
-
-
-
 ## Features:
 
 * Very simple API
